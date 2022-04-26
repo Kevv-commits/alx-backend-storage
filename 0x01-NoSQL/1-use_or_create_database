@@ -1,2 +1,2 @@
-// list all dbs
-show dbs
+// script that creates or uses the db my_db
+use my_db
